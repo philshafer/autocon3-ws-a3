@@ -2,6 +2,8 @@
 
 This repository contains the material of the "Network App Development: Design, Deploy, & Automate" workshop WS-A3 held at [Autocon3](https://networkautomation.forum/autocon3) 26 May 2025.
 
+Phil was here
+
 ## Using codespaces -- during/post event
 Use  [codespaces](https://codespaces.new/cloud-native-everything/autocon3-ws-a3/) to create your environment.
 this will open a VS Code app in your browser.
